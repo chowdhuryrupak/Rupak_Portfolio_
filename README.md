@@ -1,7 +1,7 @@
 # 💼 Rupak Chowdhury | Portfolio Website
 
-Welcome to my **personal developer portfolio**, showcasing my experience, skills, and selected projects in the field of **full-stack web development** using **HTML**,**CSS***,**JavaScript**.
-> 🌐 Live Site: 
+Welcome to my **personal developer portfolio**, showcasing my experience, skills, and selected projects in the field of **full-stack web development** using **HTML**,**CSS**,**JavaScript**.
+> 🌐 Live Site: https://chowdhuryrupak.github.io/Rupak_Portfolio_/
 
 ---
 
